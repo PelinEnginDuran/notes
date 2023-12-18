@@ -10,9 +10,9 @@ Not kartlarına tıkladığımızda içeriğine yönlendirir.
  Tarih ve saat bilgisi güncel şekilde gösterilir.
 
  # Kütüphaneler;
- React Rooter Dom
- UUID
- Bootstrap
+ --React Rooter Dom
+ --UUID
+ --Bootstrap
 
 
 
@@ -21,6 +21,6 @@ Not kartlarına tıkladığımızda içeriğine yönlendirir.
 
 
  Ekran Gif;
- [!](./public/NOTES%20PROJECT%20-%20Google%20Chrome%202023-12-18%2007-19-23.mp4)
+ [!](./public/ezgif.com-video-to-gif-converted%20(1).gif)
 
 
