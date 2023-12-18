@@ -21,6 +21,6 @@ Not kartlarına tıkladığımızda içeriğine yönlendirir.
 
 
  Ekran Gif;
- [!](./public/ezgif.com-video-to-gif-converted%20(1).gif)
+ ![](./public/ezgif.com-video-to-gif-converted%20(1).gif)
 
 
